@@ -9,7 +9,7 @@ let root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <>
 
-    <App name="Tanmoy" desc="Software Developer" age="24"/>
+    <App name="rahul" desc="Software Developer" age="24"/>
     <App name="Shreetik" desc="Senior Software Developer" age="24"/>
     <App name="Bishal" desc="Graphic Designer" age="24"/>
 

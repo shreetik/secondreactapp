@@ -1,0 +1,15 @@
+.first, .second, .third{
+  border: 2px solid black;
+  text-align: start;
+  background-color: white;
+  padding: 15px;
+}
+
+p{
+  background-color: white;
+  /* margin-left: 10px; */
+}
+
+*{
+  background-color: cyan;
+}
